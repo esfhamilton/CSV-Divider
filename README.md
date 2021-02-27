@@ -1,4 +1,4 @@
-# Large-CSV-Divider
-A short pandas script used to disregard rows of CSV files which are too large for opening in Excel so that they can be opened in Excel or used for projects on lower spec PCs.
+# CSV-Divider
+A mini pandas script used to trim large CSV files and/ or separate classes into subfiles. Used for decomposing various CIC traffic flow datasets.
 
 
